@@ -1,2 +1,2 @@
-I love being unemployed
-#God bless programming, web devs#
+I love being unemployed  
+**God bless programming**
