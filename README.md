@@ -1,8 +1,6 @@
-# Hi 👋, I'm Shafayet Islam Ifaz
+# I'm Shafayet 'w0nder' Islam
 
-### A unemployed developer with 0 skill and experience
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShafayetStuff&label=Profile views&color=0e75b6&style=flat" alt="ShafayetStuff" /> </p>
+### An unemployed developer with 0 skill and experience
 
 - 🔭 I'm currently working on **My portfolio**
 
