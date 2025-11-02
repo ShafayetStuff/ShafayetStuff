@@ -11,6 +11,8 @@
 - 📫 How to reach me **w0ndered@proton.me**
 
 - ⚡ Fun fact **I am literally bad at everything. I mean everything...**
+  
+- Also, I have the worst design choices as humanly possible...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
