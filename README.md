@@ -1,7 +1,7 @@
 Once Lebron said,
 >_There are times when I wish I could do normal things._
 
-**and I think it daily, even not being a star or some other kind of guy**
+**and I wish about it on every move.**
 
 # H-h-hi...th-there...., I-I-I'm Shafayet
 
