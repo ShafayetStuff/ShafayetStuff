@@ -19,7 +19,7 @@ Once Lebron said,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/ShafayetStuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ShafayetStuff" height="30" width="40" /><sub><sup> You're already on my profile mate... </sup></sub></a>
+<a href="https://github.com/ShafayetStuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ShafayetStuff" height="30" width="40" /></a><sub><sup> You're already on my profile mate... </sup></sub>
 <a href="https://instagram.com/badaim33.bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="badaim33.bd" height="30" width="40" /></a>
 <a href="https://youtube.com/w0nder_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="w0nder_cs" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/w0nder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="w0nder" height="30" width="40" /></a>
