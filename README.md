@@ -3,17 +3,20 @@ Once Lebron said,
 
 **and I wish about it on every move.**
 
-# Hi I am {username}
-
+# Hi, I am {username}
 ### An unemployed developer with 0 skill and experience
 
-- 🔭 I'm currently working on **My portfolio**
+- **Hardcore Linux Glazer**
+ 
+- **Formula 1 fan, especially a fan of Charles Leclerc**
 
-- 🌱 I'm currently learning **JavaScript, React, Node.js, Python.** 
+- I'm currently working on **My portfolio**
 
-- 📫 How to reach me **w0ndered@proton.me** <sub><sup>(you won't reach me anyway)</sub></sup>
+- I'm currently learning **JavaScript, React, Node.js, Python.** 
 
-- ⚡ Fun fact: **I am literally bad at everything. I mean everything...**
+- Reach me at **w0ndered@proton.me** <sub><sup>(you won't reach me anyway)</sub></sup>
+
+- Fun fact: **I am literally bad at everything. I mean everything...**
   
 - **Also, I can provide the worst design choices as humanly possible...**
 
